@@ -30,6 +30,6 @@ We will be attempting to find the correlation between the weather conditions of 
 7.	Using the data collected above to know the effect of weather on formation of tornadoes.
 
 ## References:
-•	https://www.kaggle.com/selfishgene/historical-hourly-weather-data
-•	https://www.ncdc.noaa.gov/climate-information/extreme-events/us-tornado-climatology
-•	https://numpy.org/ ; https://pandas.pydata.org/ ; https://matplotlib.org/ ; https://www.sqlite.org/ 
+•	https://www.kaggle.com/selfishgene/historical-hourly-weather-data<br />
+•	https://www.ncdc.noaa.gov/climate-information/extreme-events/us-tornado-climatology<br />
+•	https://numpy.org/  <br />https://pandas.pydata.org/  <br />https://matplotlib.org/  <br />https://www.sqlite.org/ 
