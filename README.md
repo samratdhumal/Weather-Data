@@ -32,4 +32,7 @@ We will be attempting to find the correlation between the weather conditions of 
 ## References:
 •	https://www.kaggle.com/selfishgene/historical-hourly-weather-data<br />
 •	https://www.ncdc.noaa.gov/climate-information/extreme-events/us-tornado-climatology<br />
-•	https://numpy.org/  <br />https://pandas.pydata.org/  <br />https://matplotlib.org/  <br />https://www.sqlite.org/ 
+•	https://numpy.org/  <br />
+•	https://pandas.pydata.org/  <br />
+•	https://matplotlib.org/  <br />
+•	https://www.sqlite.org/ 
