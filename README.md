@@ -9,9 +9,9 @@ We will be attempting to find the correlation between the weather conditions of 
 3.	Dataset 3 - Longitudes and Latitudes of Cities in USA. This dataset contains the longitudes and latitudes of different American cities. 
 
 ## Analysis:
-•	Analyze hourly weather data to know the discrepancy of attributes like temperature, wind speed, pressure etc., in different cities at different times. 
-•	Predict the weather of a location for given parameters. 
-•	Depending on the weather conditions, we can make assumptions on occurrences of drastic changes in the current weather conditions. 
+•	Analyze hourly weather data to know the discrepancy of attributes like temperature, wind speed, pressure etc., in different cities at different times.<br />
+•	Predict the weather of a location for given parameters. <br />
+•	Depending on the weather conditions, we can make assumptions on occurrences of drastic changes in the current weather conditions. <br />
 •	If we know the weather condition, we can predict the chances of tornado occurrence and their location. 
 
 ## Analysis method:
