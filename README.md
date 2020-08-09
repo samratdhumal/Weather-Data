@@ -1,4 +1,4 @@
-# Hourly Weather Data Analysis and Prediction                                                                                                                              2019
+# Hourly Weather Data Analysis and Prediction
 ## Technology Used: Python, SQLITE3
 ##     Analyzed hourly weather data to know the discrepancy in attributes & predicted weather of a location for parameters. Plotted different time series graphs for daily, monthly, quarterly and yearly data & determined the position of tornadoes.
 
